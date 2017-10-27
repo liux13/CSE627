@@ -1,3 +1,10 @@
 .ipynb_checkpoints
 .idea
+<<<<<<< HEAD
 kmeans-1d*
+=======
+ch03/gd-*.png
+./labs/lab*/data/
+./labs/lab*/models/
+./labs/lab*/log/
+>>>>>>> faf2b2d8dc1559c050e62ff45c3f0504a9bdd3e4
